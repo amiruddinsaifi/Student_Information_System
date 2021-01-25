@@ -16,4 +16,4 @@ To run this project, you must have installed Python on your PC. After downloadin
 
 * Step2: Go inside the project folder, open cmd then type student_manage.py and enter to start the system.
 
-* Step3: Simply, double click the student_manage.py file and you are ready to go.
+* Step3: Simply, double click the student_information_system.py file and you are ready to go.
